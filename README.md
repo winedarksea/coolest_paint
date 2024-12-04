@@ -70,6 +70,8 @@ One of the runs in which glowing yttrium oxide was coolest. Note it is the highe
 
 I only had one tile with this glowing yttrium oxide mixed into some Behr Premium Ultra Pure White (semi-gloss) but it was the best in some runs (but not on all runs). Even if it did succeed, I am not entirely sure if the yttrium oxide itself or the ‘doped’ version to make it UV to orange is what drove the improved cooling, or both. Regardless, if all the buildings of the future glow faintly orange at night, you have me to thank.
 
+To that same end, it seems reasonable to conclude that a properly fluorescent green may be slightly cooler than a regular green, making it the coolest single color.
+
 All of that said, if you wish to attempt a custom “coolest” white, here are some starting formulas that should produce decent results. Neither of these is “perfected” but they should be reasonable starting points. I don’t think there is any real need to do this, there are plenty of excellent commercial whites, the main advantage here would be you have control of the full process to assure the right pigment sizes, and so on, are used. Get a couple different paints and see what looks brightest in the sun to you.
 ## DIY Coolest White Recipe
 ```
