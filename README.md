@@ -77,7 +77,8 @@ All of that said, if you wish to attempt a custom “coolest” white, here are 
 ```
     15-20% titanium dioxide (~250 nm particle size, “pigment grade”)
     5-10% barium sulphate (< 1 micron, pigment grade, reflects UV, thermally emissive, and filler, optional)
-    5-10% silica (~1-5 µm particle size, thermal emissive and filler)50% medium (acrylic, wax based, etc. generally aim for low refractive index)
+    5-10% silica (~1-5 µm particle size, thermal emissive and filler)
+    50% medium (acrylic, wax based, etc. generally aim for low refractive index)
     Yttrium oxide invisible orange glow in the dark powder, optional, outermost paint coats only
 ```
 Another option would be split the properties into different layers. Multiple layers of different materials is how most fancy thermal coatings like those for premium windows work. Order matters. For this, layer 2 must have enough coats to completely hide layer 1.
